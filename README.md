@@ -1,6 +1,7 @@
 # Mini-Project_1_YouTube_Analytics
 
 # **YouTube Statistics Analysis**
+- [View detailed notebook](./YouTube_Statistics_Analysis.ipynb)
 
 ## Contents
 
